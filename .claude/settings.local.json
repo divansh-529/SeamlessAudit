@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx shadcn@latest init --yes --base-color slate)",
+      "Bash(npx prisma:*)",
+      "Bash(npm run:*)"
+    ]
+  }
+}
